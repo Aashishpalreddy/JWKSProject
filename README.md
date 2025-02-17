@@ -40,6 +40,9 @@ ________________________________________
 Running Tests
 Test Suite
 The project includes a set of automated tests to ensure the functionality works as expected. The tests check various aspects like key expiry, JWT validity, and proper API responses.
+
 1.	Install Testing Dependencies
+
 2.	Run the Tests
+
 3.	Test Coverage
